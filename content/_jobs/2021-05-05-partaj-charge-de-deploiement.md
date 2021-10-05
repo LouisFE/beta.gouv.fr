@@ -1,8 +1,9 @@
 ---
 roles: un(e) chargé(e) de déploiement
+open: false
 startup: partaj
-open: true
 title: Partaj recrute un(e) Chargé(e) de Déploiement
+date: 2021-10-05T11:22:43.535Z
 ---
 
 # Partaj recrute un(e) Chargé(e) de Déploiement

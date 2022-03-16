@@ -33,7 +33,8 @@ Nous rechercons un développeur senior qui pourra poursuivre la montée en comp�
 • Début de la mission dès que possible ;
 • 4 jours par semaine, télétravail possible en majeure partie, besoin de présence ponctuelle (est. 2x par mois) à La Défense (test utilisateur, démonstration, rétrospective et planification)
 • Contrat d’indépendant de 6 mois renouvelable ;
-• Environnement et communauté beta.gouv : https://beta.gouv.fr/ (plus de détails ici ; également : https://github.com/betagouv/beta.gouv.fr/wiki/Bienvenue). En travaillant pour l'Incubateur des Territoire, vous devenez membre de l'Agence Nationale de la Cohésion des Territoires, ainsi que de la communauté beta.gouv.
+• Rémunération : https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement/remuneration#grille-de-taux-journaliers
+• Environnement et communauté beta.gouv : https://beta.gouv.fr/ 
 
 ## Candidater
 
